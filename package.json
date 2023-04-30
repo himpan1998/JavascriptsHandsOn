@@ -1,0 +1,22 @@
+{
+  "name": "handson",
+  "version": "1.0.0",
+  "description": "Javascripts HandsOn",
+  "main": "1.javascriptIntroduction.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himpan1998/JavascriptsHandsOn.git"
+  },
+  "author": "Himanshu Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himpan1998/JavascriptsHandsOn/issues"
+  },
+  "homepage": "https://github.com/himpan1998/JavascriptsHandsOn#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
