@@ -2,13 +2,13 @@
   "name": "handson",
   "version": "1.0.0",
   "description": "Javascripts HandsOn",
-  "main": "1.javascriptIntroduction.js",
+  "main": "index.js",
   "scripts": {
     "start": "npm start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/himpan1998/JavascriptsHandsOn.git"
+    "url": "https://github.com/himpan1998/JavascriptsHandsOn.git"
   },
   "author": "Himanshu Pandey",
   "license": "ISC",
